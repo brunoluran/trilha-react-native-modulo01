@@ -8,5 +8,8 @@
 
 ## Sobre o módulo
 
-npx react-native init myskills
-yarn add -D typescript @types/react @types/react-native
+<ul>
+<li>npx react-native init myskills</li>
+<li>yarn add -D typescript @types/react @types/react-native</li>
+</ul>
+
